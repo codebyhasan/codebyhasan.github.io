@@ -1,21 +1,23 @@
-# Hi, I'm Muhammed Hasan! 👋
+# Muhammed Hasan
 
-<a href="https://github.com/CodeByHasan">
-  <img src="https://avatars.githubusercontent.com/u/175490975?s=400&u=449820fe8195b0ba9afedfab334cbd9f1e6ac735&v=4" alt="Profile Picture" width="200" height="200" style="border-radius:50%;">
-</a>
+**Greetings!**  
+I’m Muhammed Hasan, a creator weaving lines of code into vibrant applications. My canvas? The world of **Kotlin** and **Android**.
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://source.android.com/)
-[![GitHub followers](https://img.shields.io/github/followers/CodeByHasan?style=social)](https://github.com/CodeByHasan)
+### 🎭 My Palette:
+- **Kotlin:** The brush I wield to paint elegant solutions.
+- **Android:** The canvas where my creations come to life.
 
-👋 Hi, I'm [Muhammed Hasan](https://twitter.com/minimalframer)  
-👀 I’m interested in reading  
-🌱 I’m currently learning Kotlin  
-💞️ I’m looking to collaborate on Kotlin projects  
-📫 How to reach me:
+### 🌱 Current Journey:
+Embarking on a quest to deepen my mastery of Kotlin, I seek fellow artisans to collaborate on groundbreaking projects. Let’s innovate together!
 
-- [![GitHub](https://img.shields.io/badge/GitHub-@CodeByHasan-181717?style=flat&logo=github&logoColor=white)](https://github.com/CodeByHasan)
-- [![Twitter](https://img.shields.io/badge/Twitter-@minimalframer-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/minimalframer)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@minimalframer-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minimalframer)
-- [![Facebook](https://img.shields.io/badge/Facebook-@mr.jihad.hasan-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mr.jihad.hasan)
+### 📬 Reach Out:
+- **GitHub:** [@codebyhasan](https://github.com/codebyhasan) - Explore my portfolio of creations!
+- **Twitter:** [@codebyhasan](https://twitter.com/codebyhasan) - Join me in conversations about tech and creativity.
+- **LinkedIn:** [@codebyhasan](https://www.linkedin.com/in/codebyhasan) - Connect for professional collaborations.
+- **Facebook:** [@codebyhasan](https://www.facebook.com/codebyhasan) - Let’s connect in the social sphere!
 
+### 🌌 A Glimpse of Me:
+- **Interests:** Reading, exploring new technologies, and crafting innovative solutions.
+- **Collaboration:** Always open to new ideas and partnerships!
+
+Thank you for visiting my creative space! Let’s turn ideas into reality! 🚀
