@@ -45,6 +45,26 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+## Deploying to Cloudflare Pages
+
+Cloudflare Pages does not natively build Jekyll sites. You must configure the build settings as follows:
+
+1. **Gemfile and Ruby version**: Already included in this repo.
+2. **Cloudflare Pages Build Settings:**
+   - **Framework preset:** None
+   - **Build command:** `bundle exec jekyll build`
+   - **Output directory:** `_site`
+3. **(Optional) Environment variable:**
+   - Key: `BUNDLER_VERSION`  Value: `2.4.22` (if you see bundler errors)
+4. **Ruby version:** Cloudflare will use the version in `.ruby-version` (e.g., `3.2.2`).
+
+**Steps:**
+- Go to your Cloudflare Pages project settings.
+- Set the build command and output directory as above.
+- Save and redeploy.
+
+If you see errors, check your build logs and ensure all dependencies are in your Gemfile.
+
 ## License
 
 This work is published under [MIT][mit] License.
