@@ -14,39 +14,39 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ahammad Nafiz # the main title
+title: Hasan's Tech Blog # the main title
 
-tagline: Python | Machine Learning  # it will display as the sub-title
+tagline: Python | Deep Learning | Robotics  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Ahammad Nafiz: Expert in Python and Machine Learning. Discover insightful articles on data science, 
-  AI, deep learning, and software engineering. Practical tutorials, code examples, and industry insights. 
-  Stay updated with the latest tech trends and boost your programming skills.
+  Hasan's Tech Blog: Exploring Python, Deep Learning, and Robotics. Discover in-depth tutorials and guides on 
+  neural networks, ESP32 projects, and advanced Python programming. Quality technical content with practical 
+  examples and hands-on implementation.
 
 # ... rest of the file remains unchanged ...
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://ahammadnafiz.github.io"
+url: "https://codebyhasan.github.io"
 
 github:
-  username: ahammadnafiz # change to your github username
+  username: codebyhasan # change to your github username
 
 twitter:
-  username: ahammadnafi_z # change to your twitter username
+  username: codebyhasan # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ahammad Nafiz
-  email: ahammadnafiz@outlook.com # change to your email address
+  name: Hasan
+  email: hello@codebyhasan.link # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ahammadnafi_z # change to your twitter homepage
-    - https://github.com/ahammadnafiz # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/6dotleft
-    - https://www.linkedin.com/in/ahammad-nafiz/
+    - https://twitter.com/codebyhasan # change to your twitter homepage
+    - https://github.com/codebyhasan # change to your github homepage
+    - https://www.linkedin.com/in/codebyhasan
+    - https://facebook.com/codebyhasan
+    - https://instagram.com/codebyhasan
 
 google_site_verification: # fill in to your verification string
 

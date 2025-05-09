@@ -1,4 +1,10 @@
-tremo:
-  name: Ahammad Nafiz
-  twitter: ahammadnafi_z
-  url: https://www.linkedin.com/in/ahammad-nafiz/
+hasan:
+  name: Hasan
+  twitter: codebyhasan
+  url: https://github.com/codebyhasan
+  email: hello@codebyhasan.link
+  links:
+    twitter: https://twitter.com/codebyhasan
+    facebook: https://facebook.com/codebyhasan
+    linkedin: https://linkedin.com/in/codebyhasan
+    instagram: https://instagram.com/codebyhasan
