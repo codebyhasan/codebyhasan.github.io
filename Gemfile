@@ -6,7 +6,7 @@ gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.5"
 gem "jekyll", "~> 4.3.2"
 gem "webrick" # Required for Ruby 3.0+
 
-group :test do
+group :development, :test do
   gem "html-proofer", "~> 4.4"
 end
 
