@@ -4,14 +4,35 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-AI Enthusiast x Design Aficionado
+Deep Learning Engineer | Python Expert | Robotics Enthusiast
 
-🚀 I'm fueled by an overwhelming curiosity to explore the enormous possibilities of data, which is why I am immersed in studying Data Science. The key to unlocking revolutionary innovation lies in a fusion of Data Science and Design.
+👋 Hi, I'm Hasan! I'm passionate about making complex technical concepts accessible to everyone.
 
-🌟 My approach to data is broader than analytics because I want a positive impact, and it's an art. I'm enjoying the challenge of transforming complex data sets into compelling visual stories that appeal to a variety of audiences.
+🔬 Areas of Expertise:
+- Deep Learning & Neural Networks
+- Python Programming & Advanced Concepts
+- Robotics & ESP32 Development
+- Technical Writing & Education
 
-🎨 With a discerning eye for design, I'm committed to crafting solutions that solve complex problems and enhance user experiences. I see the intersection of data and design as the breeding ground for innovation, and I'm determined to be a pioneer in this transformative space.
+🚀 What I Do:
+- Develop and explain neural networks from scratch
+- Create comprehensive Python programming tutorials
+- Build exciting robotics projects with ESP32
+- Share in-depth technical knowledge through detailed blog posts
 
-🌐 Committed to continuous learning, I embody the principles of hard work, discipline, and resilience. I am eager to contribute my skills and passion to projects that challenge the status quo and push the boundaries of what is possible.
+💡 My Mission:
+I believe in demystifying complex technical concepts and making them accessible to everyone. Whether it's explaining backpropagation in neural networks, demonstrating advanced Python concepts, or building RC cars with ESP32, I focus on practical, hands-on learning with real-world applications.
 
-Let's connect and explore the exciting intersection of data and design, where the alchemy of analytics and aesthetics creates a tapestry of innovation. 🌈 #DataScience #DesignThinking #AIEnchantment #FutureInnovation
+🌟 Featured Work:
+- Building Neural Networks From Scratch
+- ESP32 Joystick-Controlled Car Projects
+- Comprehensive Python Programming Tutorials
+- Deep Dives into Deep Learning Concepts
+
+🔗 Connect with me:
+- GitHub: [@codebyhasan](https://github.com/codebyhasan)
+- Twitter: [@codebyhasan](https://twitter.com/codebyhasan)
+- LinkedIn: [in/codebyhasan](https://linkedin.com/in/codebyhasan)
+- Email: hello@codebyhasan.link
+
+Let's explore the fascinating world of technology together! 🤖 #DeepLearning #Python #Robotics #TechEducation
